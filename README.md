@@ -1,6 +1,6 @@
 # Cpp-Piscine
 42 Cpp piscine<br/>
-Intensice basic cpp skill training in two weeks<br/>
+Intensive basic cpp skill training in two weeks<br/>
 
 # Daily Subjects
 Day 00: Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff<br/>
